@@ -1,0 +1,16 @@
+Proyecto Desarrollo Powerbuilder 11.5v
+
+
+
+Ventana WINDOW con nombre "mensaje"
+1- Creamos un boton llamado "Clic"
+2- programaremos el evento clicked con el siguiente codigo:
+messagebox("Bienvenido","Gerardo Rosales")
+
+**********************************************
+Ventana Bienvenida
+
+Ingresamos el siguiente codigo:
+
+open(mensaje)
+
